@@ -28,4 +28,4 @@ These are features that are currently implemented in Fitness 101.
 6. As a user, I want a filtering feature that can let me filter events and posts, so I can more easily find information that is relevant to my specific needs.
 7. As a systems administor, I want to be able to ban users who misuse this application to bully others, so I can ensure that users are not scared of getting into fitness.
 8. As a user, I want a calendar feature so that I can plan my schedule and remind myself of events I have signed up for, so that I can stay consistent with my fitness goals.
-9.  As a fitness professional, I want to be able to share my experiences and opinions about specific fitness topics, ensuring that users are able to see other perspectives to inform their decisions.
+9. As a fitness professional, I want to be able to share my experiences and opinions about specific fitness topics, ensuring that users are able to see other perspectives to inform their decisions.
