@@ -1,6 +1,6 @@
 author = "Brady Zhou"
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+baseURL = 'https://bradyz314.github.io/hugo-mock-landing-page/'
+copyright = "Brady Zhou"
 title = "Fitness 101"
 
 timeZone = 'America/New_York'
